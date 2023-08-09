@@ -2,7 +2,7 @@
 
 A decentralized NFT marketplace built using Next.js, GraphQL, and Solidity.
 
-![Project Preview](project-preview.png)
+![Project Preview](overview.png)
 
 ## Table of Contents
 
